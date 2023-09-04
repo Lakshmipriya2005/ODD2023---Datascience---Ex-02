@@ -93,27 +93,29 @@ sns.boxplot(y='weight',data=weight_new)
 ### Output:
 ## bhp.csv:
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/5768615e-246e-4320-8f09-aa5765346efa">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/1f3a5b21-70aa-49f7-8c15-91d0fe1befa3)">
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/3bdef95e-fae0-47c1-b7b3-68f79bcceb30">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/0b8d9aa7-3d6a-4121-82aa-bcb91d05f72b">
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/6409d819-3af9-4a82-87fb-e9b92af337d1">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/36436edc-135e-49cf-959a-507d1e780529">
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/c29237f2-9267-432c-84c4-6362f1d148af">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/67770f30-d65c-4644-b450-22eedde9ee6e">
+
 
 ## weight_height.csv:
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/b1382ef8-6c0e-4484-ae5f-00847ea61599">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361">
+
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/7c77eb91-ed9b-4604-9041-565162409b10">
 
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/9bcbd4ae-a194-4773-9925-be6e19db3fd4">
+
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/e27fa0cd-fe36-49d3-9bf7-9db76b44e5ac">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/b590857b-4113-413c-b84b-a05385b99f7a">
 
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/a6cb741b-1abe-4db2-9666-4ba8319b4cc9">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/78d81811-6b78-43f7-92ba-961eda88e8e6">
 
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/f95aa03a-90ec-47ca-9415-3bcd1c847ca7">
-
-<img height=30% width=70% src="https://github.com/abinayasangeetha/ODD2023---Datascience---Ex-02/assets/119393675/57e6a181-650d-45d7-8e79-adb323a64334">
 
 
 ### Result:
