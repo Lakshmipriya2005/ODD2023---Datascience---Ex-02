@@ -104,7 +104,7 @@ sns.boxplot(y='weight',data=weight_new)
 
 ## weight_height.csv:
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361">
+<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/3d15ba3a-22f1-49db-b777-357e10881102">
 
 <img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/7c77eb91-ed9b-4604-9041-565162409b10">
 
