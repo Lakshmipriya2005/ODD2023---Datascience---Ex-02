@@ -23,8 +23,8 @@ Outliers badly affect mean and standard deviation of the dataset. These may stat
 
 # Code:
 ```
-Developed By : Shree Ram R
-reference number: 212222040154
+Developed By : LAKSHMIRPIYA D
+reference number: 212222040085
 ```
 ##### bhp.csv:
 ```Python
