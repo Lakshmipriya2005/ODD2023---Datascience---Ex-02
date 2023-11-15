@@ -1,5 +1,8 @@
 # Ex02 Outlier Detection
-### AIM:  
+
+# DATE:14/09/2023
+
+## AIM:  
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 - (1) Remove outliers using IQR
 - (2) After removing outliers in step 1, you get a new dataframe.
@@ -7,21 +10,22 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 - (4) for the data set height_weight.csv find the following
   - (i) Using IQR detect weight outliers and print them
   - (ii) Using IQR, detect height outliers and print them
-### Explanation:
+## Explanation:
 An Outlier is an observation in a given dataset that lies far from the rest of the observations. That means an outlier is vastly larger or smaller than the remaining values in the set.
 An outlier is an observation of a data point that lies an abnormal distance from other values in a given population. (odd man out).
 Outliers badly affect mean and standard deviation of the dataset. These may statistically give erroneous results.
-### Algorithm:
+## Algorithm:
 - Step1: Read the given Data.
 - Step2: Get the information about the data.
 - Step3: Detect the Outliers using IQR method and Z score.
 - Step4: Remove the outliers.
 - Step5: Plot the datas using Box Plot.
+
+# Code:
 ```
-212222230002
-ABINAYA S
+Developed By : Shree Ram R
+reference number: 212222040154
 ```
-### Code:
 ##### bhp.csv:
 ```Python
 import pandas as pd
@@ -93,28 +97,32 @@ sns.boxplot(y='weight',data=weight_new)
 ### Output:
 ## bhp.csv:
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/1f3a5b21-70aa-49f7-8c15-91d0fe1befa3)">
+<img height=30% width=70% src="   ![1](https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/7a756fcd-5d8d-4388-af60-234eb54242bb)
+   ">
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/0b8d9aa7-3d6a-4121-82aa-bcb91d05f72b">
+<img height=30% width=70% src="     ![2](https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/994c57ad-76c9-43a0-b55e-c7d451bf3449)
+ ">
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/36436edc-135e-49cf-959a-507d1e780529">
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/94167c8a-184f-404a-aef2-2d356885e94d">
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/67770f30-d65c-4644-b450-22eedde9ee6e">
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/6ac9164c-281f-441c-9655-715f9dbb1e8a">
 
 
 ## weight_height.csv:
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/3d15ba3a-22f1-49db-b777-357e10881102">
-
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/7c77eb91-ed9b-4604-9041-565162409b10">
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/a923ef21-5ba3-4c1d-94a6-b87296b43620">
 
 
-
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/e27fa0cd-fe36-49d3-9bf7-9db76b44e5ac">
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/b590857b-4113-413c-b84b-a05385b99f7a">
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/6f39cc59-dc89-4f3b-86cc-7193a9230e03">
 
 
-<img height=30% width=70% src="https://github.com/Lakshmipriya2005/ODD2023---Datascience---Ex-02/assets/115525361/78d81811-6b78-43f7-92ba-961eda88e8e6">
+
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/f9ca4e94-8b7d-4ffb-8c7e-af9c772f159a">
+
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/aa07c20e-73ca-4fb4-a9ef-acbf3b5b4d32">
+
+
+<img height=30% width=70% src="https://github.com/Shree-Ram-R/ODD2023---Datascience---Ex-02/assets/121288490/22ee80fb-3261-4c15-9b3f-3daa0317fc71">
 
 
 
